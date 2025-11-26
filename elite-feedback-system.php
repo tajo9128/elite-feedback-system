@@ -1,22 +1,3 @@
-<?php
-/**
- * Plugin Name: Elite Feedback System
- * Plugin URI: https://github.com/yourusername/elite-feedback-system
- * Description: Comprehensive feedback collection and analytics system for NAAC and NBA accreditation compliance. Collect multi-stakeholder feedback, generate detailed reports, and streamline your accreditation process.
- * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
- * License: GPL v2 or later
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: elite-feedback-system
- * Domain Path: /languages
- * Requires at least: 5.8
- * Requires PHP: 7.4
- */
-
-// If this file is called directly, abort.
-if (!defined('WPINC')) {
-    die;
 }
 
 /**
